@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\malawi_digital_health_passport\bin\Debug\net7.0\malawi_digital_health_passport.exe
+C:\Users\HP\source\repos\malawi_digital_health_passport\bin\Debug\net7.0\malawi_digital_health_passport.deps.json
+C:\Users\HP\source\repos\malawi_digital_health_passport\bin\Debug\net7.0\malawi_digital_health_passport.runtimeconfig.json
+C:\Users\HP\source\repos\malawi_digital_health_passport\bin\Debug\net7.0\malawi_digital_health_passport.dll
+C:\Users\HP\source\repos\malawi_digital_health_passport\bin\Debug\net7.0\malawi_digital_health_passport.pdb
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.AssemblyInfo.cs
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.dll
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\refint\malawi_digital_health_passport.dll
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.pdb
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\malawi_digital_health_passport.genruntimeconfig.cache
+C:\Users\HP\source\repos\malawi_digital_health_passport\obj\Debug\net7.0\ref\malawi_digital_health_passport.dll

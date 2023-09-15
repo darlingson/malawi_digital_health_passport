@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "malawi_digital_health_passport/1.0.0": {
+        "runtime": {
+          "malawi_digital_health_passport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "malawi_digital_health_passport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
